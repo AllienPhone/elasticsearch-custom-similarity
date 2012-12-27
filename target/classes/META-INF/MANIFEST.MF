@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: hadoop
+Build-Jdk: 1.6.0_10-rc2
+Created-By: Maven Integration for Eclipse
+
